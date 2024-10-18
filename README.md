@@ -12,5 +12,5 @@
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/AnujShakya123/registration-system-backend.git
+git clone [https://github.com/AnujShakya123/INI8-Assign.git]
 cd registration-system-backend
